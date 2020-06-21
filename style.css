@@ -1,0 +1,30 @@
+
+
+.container{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+.custom  img{
+    height: 50px;
+}
+.custom-navbar{
+   text-align: center;
+   font-size: 10px;
+}
+.custom-navbar ul li {
+    padding: 20px;
+    font-size: 15px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F  100%);
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
