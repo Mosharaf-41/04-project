@@ -1,10 +1,9 @@
 
 
-.container{
-    padding-bottom: 10px;
-    padding-top: 10px;
+
+   
     
-}
+
 .custom  img{
     height: 50px;
 }
@@ -13,18 +12,84 @@
    font-size: 10px;
 }
 .custom-navbar ul li {
-    padding: 20px;
+    padding: 5px;
     font-size: 15px;
 }
 
 .carousel-item{
     padding: 20px 40px;
 }
+
+.carousel-indicators {
+color: orange;
+}
 .buy-now-button{
-    background-image: linear-gradient(to bottom, #FF589B 0%,#FF136F  100%);
+    background-image: linear-gradient(to bottom, #0c090a 0%,#131112  100%);
   color: #fff;
   cursor: pointer;
   border: none;
   border-radius: 8px;
   padding: 9px 25px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+.Smartphone{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+}
+.laptop{
+    padding-top: 50px;
+}
+.all{
+    padding-bottom: 20px;
+}
+.card-footer{
+    background-color: #fff;
+    border: none;
+}
+h6{
+    float: right;
+    color: orange;
+}
+.categories{
+    padding-top: 50px;
+     padding-bottom: 50px;
+    color: #000;
+    
+}
+.categories h2{
+   margin: 0 auto;
+    width: 120px;
+    border-bottom: 5px solid orange;
+    
+    padding: 10px;
+}
+.card1{
+    
+    width:200px;
+    height: 240px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px lightgray;
+    text-align: center;
+   
+}
+.cat1{
+    width: 100px;
+    height: 200px;
+}
+
+.w-100{
+    padding: 20px;
+    border-radius: 10px 15px;
+}
+.cat{
+    padding-top: 50px;
 }
